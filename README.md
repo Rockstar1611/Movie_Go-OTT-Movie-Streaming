@@ -1,5 +1,5 @@
-# Movie_India
-Project Description – Movie_India
+# Movie_Go
+Project Description – Movie_Go
 
 This project is a Movie-India web application that replicates the user interface and core features of the popular streaming platform. It was developed to strengthen my frontend development skills and demonstrate the ability to build real-world applications with modern web technologies.
 
@@ -34,3 +34,4 @@ Experience with REST API integration and data fetching
 Hands-on practice with responsive UI/UX design
 
 Understanding of state management in React
+#MovieGo #FrontendDevelopment #WebApp #ReactJS #JavaScript #ResponsiveDesign #APIs #CodingProject #GitHubProjects #TechPortfolio
