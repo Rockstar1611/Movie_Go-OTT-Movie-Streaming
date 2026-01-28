@@ -34,4 +34,4 @@ Experience with REST API integration and data fetching
 Hands-on practice with responsive UI/UX design
 
 Understanding of state management in React
-# MovieGo #FrontendDevelopment #WebApp #ReactJS #JavaScript #ResponsiveDesign #APIs #CodingProject #GitHubProjects #TechPortfolio
+#MovieGo #FrontendDevelopment #WebApp #ReactJS #JavaScript #ResponsiveDesign #APIs #CodingProject #GitHubProjects #TechPortfolio
