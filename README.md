@@ -21,8 +21,6 @@ Frontend: React.js, JavaScript, HTML, CSS (or Tailwind/Bootstrap)
 
 API Integration: TMDB (The Movie Database API) for real-time movie/TV data
 
-Backend (if included): Node.js/Express or Java Spring Boot
-
 Database (optional): Firebase / MongoDB / MySQL
 
 Learning Outcomes :
